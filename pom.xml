@@ -9,6 +9,7 @@
   <description>这是一个集成了Mybatis分页插件和通用Mapper的示例项目</description>
   <url>http://maven.apache.org</url>
 
+  
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
